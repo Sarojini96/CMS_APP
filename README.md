@@ -4,6 +4,6 @@
 
 **Docker**
 
-**Backend** - *Python Flask, MongoDB, Azure CosmoDB ,JSON Web Token (JWT)
+**Backend** - *Python Flask, MongoDB, Azure CosmoDB ,JSON Web Token (JWT)*
 
-**Frontend** - *Reactjs
+**Frontend** - *Reactjs*
