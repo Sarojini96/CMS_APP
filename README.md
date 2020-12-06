@@ -2,7 +2,7 @@
 
 # Tech Used
 
-**Docker **
+**Docker**
 
 **Backend** - *Python Flask RESTful API , MongoDB, Azure CosmoDB , JSON Web Token (JWT)*
 
