@@ -16,9 +16,9 @@
 and **Dockerized** to run within a Docker container.* 
 
  Developed
-*User registration and Login page
-User Profile Page
-Create post and submit page
+*User registration and Login page,
+User Profile Page,
+Create post and submit page,
 View created post poage*
 
 
