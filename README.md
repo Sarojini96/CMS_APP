@@ -1,6 +1,8 @@
 # CMS_APP
 
-#Tech Used
+# Tech Used
 Docker
-Backend - Python Flask,MongoDB,Azure CosmoDB
+
+Backend - Python Flask, MongoDB, Azure CosmoDB ,JSON Web Token (JWT)
+
 Frontend - Reactjs
