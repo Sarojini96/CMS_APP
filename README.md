@@ -1,4 +1,4 @@
-# my_interview_task-CMS_APP
+# CMS_APP
 
 #Tech Used
 Docker
