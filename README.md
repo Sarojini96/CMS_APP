@@ -1,12 +1,12 @@
 # CMS_APP
 
-# Tech Used
+**Tech Used**
 
-**Docker**
+--**Docker**
 
-**Backend** - *Python Flask RESTful API , MongoDB, Azure CosmoDB , JSON Web Token (JWT)*
+--**Backend** - *Python Flask RESTful API , MongoDB, Azure CosmoDB , JSON Web Token (JWT)*
 
-**Frontend** - *Reactjs*
+--**Frontend** - *Reactjs*
 
 *In this project I have developed a simple cms application using **React** a javascript framework for building UI ,
 **Flask** lightweight web app micro-framework built on Python to build an API for Users and Blog CRUD in which React can consume,
