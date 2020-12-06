@@ -8,12 +8,18 @@
 
 **Frontend** - *Reactjs*
 
-*In this project I have used **React** a javascript framework for building UI ,
+*In this project I have developed a simple cms application using **React** a javascript framework for building UI ,
 **Flask** lightweight web app micro-framework built on Python to build an API for Users and Blog CRUD in which React can consume,
 **JSON Web Token (JWT)** to secure the the REST API,
 **MongoDB** a  NoSQL database to store information about the users and blog post,
 **Azure Cosmos DB** for MongoDB API 
 and **Dockerized** to run within a Docker container.* 
+
+ Developed
+*User registration and Login page
+User Profile Page
+Create post and submit page
+View created post poage*
 
 
 
