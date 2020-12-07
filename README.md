@@ -21,5 +21,22 @@ User Profile Page,
 Create post and submit page,
 View created post page*
 
+**Installation**
+*Running the backend.
+steps : Install all the dependencies*
+
+*Navigate backend folder*
+
+pip install -r requirements.txt
+python mongo.py
+server running at port:5000
+
+*Running the Frontend.
+steps:*
+
+npm install or yarn install
+npm start or yarn start
+server running at port:3000
+
 
 
