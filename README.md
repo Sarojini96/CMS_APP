@@ -23,7 +23,7 @@ View created post page*
 
 **Installation**
 
-*Running the backend*
+**Run backend**
 
 *steps : Install all the dependencies*
 
@@ -35,7 +35,7 @@ python mongo.py
 
 server running at port:5000
 
-*Running the Frontend.*
+**Run Frontend.**
 
 *steps:*
 
