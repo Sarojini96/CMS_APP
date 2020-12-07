@@ -33,6 +33,7 @@ server running at port:5000
 
 *Running the Frontend.
 steps:*
+Navigate frontend folder 
 
 npm install or yarn install
 npm start or yarn start
