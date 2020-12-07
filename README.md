@@ -22,6 +22,7 @@ Create post and submit page,
 View created post page*
 
 **Installation**
+
 *Running the backend*
 
 *steps : Install all the dependencies*
